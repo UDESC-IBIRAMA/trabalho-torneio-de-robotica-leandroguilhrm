@@ -1,0 +1,19 @@
+a:hover{
+    text-decoration: none;
+}
+body.fixed-nav {
+    padding-top: 0;
+}
+header{
+    background: #fff;
+}
+header #logo{
+    margin: 0;
+    padding: 0.8em 0;
+    font-style: italic;
+    color: #999;
+}
+header #logo span{
+    font-weight: bold;
+    color: #117a8b;
+}
